@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/Siddhant Borhade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant borhade" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/siddhant-borhade-b9a5262a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant borhade" height="30" width="40" /></a>
 <a href="https://instagram.com/siddhant borhade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhant borhade" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/siddhant2211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddhant2211" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/siddhantbo0z1m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="siddhantbo0z1m" height="30" width="40" /></a>
